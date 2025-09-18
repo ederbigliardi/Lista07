@@ -52,4 +52,4 @@ Teste para cálculo da área do paralelogramo usando lista de valores.
 Teste para cálculo da área do triângulo usando massa de dados em formato JSON.
 
 ✍️ Autor
-Projeto desenvolvido por [Éder Bigliardi] como parte da formação em Teste e QA.
+Projeto desenvolvido por Éder Bigliardi como parte da formação em Teste e QA.
